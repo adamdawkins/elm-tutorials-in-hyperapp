@@ -711,6 +711,11 @@
     lodash "^4.17.11"
     to-fast-properties "^2.0.0"
 
+"@hyperapp/events@^0.0.3":
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/@hyperapp/events/-/events-0.0.3.tgz#b258441e670a1d5da08db2d23f5e3eb152143e1d"
+  integrity sha512-Kboh7bpHDHMSjjJJAOYGDig+kVhGSWJfEbV39Zo+NcKPtwbjR4hK9hANiLWCN+FfdFvB5ayVDkpttmGA/EGf6g==
+
 "@hyperapp/html@^1.1.1":
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/@hyperapp/html/-/html-1.1.1.tgz#8040666e8f935eed95f2034f443cc8768866d992"

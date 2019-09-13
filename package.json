@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "@hyperapp/events": "^0.0.3",
     "@hyperapp/html": "^1.1.1",
     "hyperapp": "^2.0.1"
   },
